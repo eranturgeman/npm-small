@@ -5,6 +5,7 @@
     "start": "node helloworld"
   },
   "dependencies": {
+    "chokidar": "^2.0.3",
     "send": "^0.16.2"
   },
   "devDependencies": {
