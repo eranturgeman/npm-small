@@ -6,7 +6,8 @@
   },
   "dependencies": {
     "chokidar": "^2.0.3",
-    "send": "^0.16.2"
+    "send": "^0.16.2",
+    "snyk": "1.995.0"
   },
   "devDependencies": {
     "debug": "^4.1.1"
