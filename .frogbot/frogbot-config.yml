@@ -83,8 +83,7 @@
 
       # [Optional]
       # Name of a Virtual Repository in Artifactory to resolve (download) the project dependencies from
-    repository:
-    - "my-repo"
+      - repository: "my-repo"
 
     # JFrog Platform parameters
     jfrogPlatform:
