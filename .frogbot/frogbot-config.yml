@@ -68,8 +68,8 @@
 
           # [Default: root directory]
           # List of relative path's to the projects directories in the git repository
-          #workingDirs:
-          # "."
+          workingDirs:
+            - "."
           # "./ClassLibrary1"
           # "./TestApp1"
 
